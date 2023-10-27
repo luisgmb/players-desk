@@ -1,6 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Player's Desk APP
+
+## Introduction
+
+Welcome to Player's Desk, your ultimate tool for organizing and enhancing your tabletop role-playing game (RPG) experiences. Whether you're a seasoned adventurer or just starting your journey into the world of Dungeons & Dragons, Player's Desk is designed with you in mind. This web system is developed with the dual purpose of assisting me in managing my campaigns as a player and providing a platform to continually study React, a popular JavaScript library for building user interfaces.
+
+## Features
+
+### Campaign Organization
+
+- **Character Sheets**: Create and manage detailed character sheets for your RPG personas, keeping all your character information in one place.
+- **Notes and Journals**: Maintain campaign notes, personal journals, and adventure logs for each of your characters to document your epic tales and discoveries.
+- **File Upload**: Easily upload and store related files, including character art, maps, and handouts, to enrich your gaming experience.
+- **Campaign Dashboard**: Get an overview of all your ongoing campaigns and characters on a dedicated dashboard.
+
+### D&D Resources
+
+- **Rules and Information**: Access a vast library of D&D rules, spells, classes, items, and more to aid in character creation and world-building.
+
+## React Learning
+
+- **Hands-on Practice**: Player's Desk serves as a practical playground for me to improve my React skills. It's a way for me to dive into the code, experiment with components, and understand how modern web applications work.
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
